@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ExcelBD_API.props" />
+</Project>

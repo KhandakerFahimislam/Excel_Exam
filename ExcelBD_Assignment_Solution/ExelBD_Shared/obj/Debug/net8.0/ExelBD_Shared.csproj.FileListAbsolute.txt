@@ -1,0 +1,24 @@
+D:\R54\Jahangir\ExcelBD_Assignment_Solution\ExelBD_Shared\bin\Debug\net8.0\ExelBD_Shared.deps.json
+D:\R54\Jahangir\ExcelBD_Assignment_Solution\ExelBD_Shared\bin\Debug\net8.0\ExelBD_Shared.dll
+D:\R54\Jahangir\ExcelBD_Assignment_Solution\ExelBD_Shared\bin\Debug\net8.0\ExelBD_Shared.pdb
+D:\R54\Jahangir\ExcelBD_Assignment_Solution\ExelBD_Shared\obj\Debug\net8.0\ExelBD_Shared.csproj.AssemblyReference.cache
+D:\R54\Jahangir\ExcelBD_Assignment_Solution\ExelBD_Shared\obj\Debug\net8.0\ExelBD_Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\R54\Jahangir\ExcelBD_Assignment_Solution\ExelBD_Shared\obj\Debug\net8.0\ExelBD_Shared.AssemblyInfoInputs.cache
+D:\R54\Jahangir\ExcelBD_Assignment_Solution\ExelBD_Shared\obj\Debug\net8.0\ExelBD_Shared.AssemblyInfo.cs
+D:\R54\Jahangir\ExcelBD_Assignment_Solution\ExelBD_Shared\obj\Debug\net8.0\ExelBD_Shared.csproj.CoreCompileInputs.cache
+D:\R54\Jahangir\ExcelBD_Assignment_Solution\ExelBD_Shared\obj\Debug\net8.0\ExelBD_Shared.dll
+D:\R54\Jahangir\ExcelBD_Assignment_Solution\ExelBD_Shared\obj\Debug\net8.0\refint\ExelBD_Shared.dll
+D:\R54\Jahangir\ExcelBD_Assignment_Solution\ExelBD_Shared\obj\Debug\net8.0\ExelBD_Shared.pdb
+D:\R54\Jahangir\ExcelBD_Assignment_Solution\ExelBD_Shared\obj\Debug\net8.0\ref\ExelBD_Shared.dll
+C:\Users\Fahim\Downloads\New folder (4)\ExcelBD_Assignment_Solution\ExelBD_Shared\bin\Debug\net8.0\ExelBD_Shared.deps.json
+C:\Users\Fahim\Downloads\New folder (4)\ExcelBD_Assignment_Solution\ExelBD_Shared\bin\Debug\net8.0\ExelBD_Shared.dll
+C:\Users\Fahim\Downloads\New folder (4)\ExcelBD_Assignment_Solution\ExelBD_Shared\bin\Debug\net8.0\ExelBD_Shared.pdb
+C:\Users\Fahim\Downloads\New folder (4)\ExcelBD_Assignment_Solution\ExelBD_Shared\obj\Debug\net8.0\ExelBD_Shared.csproj.AssemblyReference.cache
+C:\Users\Fahim\Downloads\New folder (4)\ExcelBD_Assignment_Solution\ExelBD_Shared\obj\Debug\net8.0\ExelBD_Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fahim\Downloads\New folder (4)\ExcelBD_Assignment_Solution\ExelBD_Shared\obj\Debug\net8.0\ExelBD_Shared.AssemblyInfoInputs.cache
+C:\Users\Fahim\Downloads\New folder (4)\ExcelBD_Assignment_Solution\ExelBD_Shared\obj\Debug\net8.0\ExelBD_Shared.AssemblyInfo.cs
+C:\Users\Fahim\Downloads\New folder (4)\ExcelBD_Assignment_Solution\ExelBD_Shared\obj\Debug\net8.0\ExelBD_Shared.csproj.CoreCompileInputs.cache
+C:\Users\Fahim\Downloads\New folder (4)\ExcelBD_Assignment_Solution\ExelBD_Shared\obj\Debug\net8.0\ExelBD_Shared.dll
+C:\Users\Fahim\Downloads\New folder (4)\ExcelBD_Assignment_Solution\ExelBD_Shared\obj\Debug\net8.0\refint\ExelBD_Shared.dll
+C:\Users\Fahim\Downloads\New folder (4)\ExcelBD_Assignment_Solution\ExelBD_Shared\obj\Debug\net8.0\ExelBD_Shared.pdb
+C:\Users\Fahim\Downloads\New folder (4)\ExcelBD_Assignment_Solution\ExelBD_Shared\obj\Debug\net8.0\ref\ExelBD_Shared.dll

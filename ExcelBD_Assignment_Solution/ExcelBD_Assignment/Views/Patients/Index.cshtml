@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Patient>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="row">
+    <div class="col-12">
+        <h3>Patients info</h3>
+        <div class="d-flex justify-content-end mb-1">
+            <a class="btn btn-outline-primary btn-sm" asp-action="Create" asp-controller="Patients">Add New</a>
+        </div>
+        <table class="table table-bordered">
+            <thead class="table-light">
+                <tr>
+                    <th>Patient Name</th>
+                    <th>Disease</th>
+                    <th>Epilepsy</th>
+                    <th>Allergies</th>
+                   <th>NCDs</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var p in Model)
+                {
+                    <tr>
+                        <td>@p.PatientName</td>
+                        <td>@p.DiseaseInformation.DiseaseName</td>
+                        <td>@p.Epilepsy</td>
+                        <td>@(string.Join(", ", p.Allergy_Details.Select(x=> x.Allergy.AllergyName).ToList()))</td>
+                        <td>@(string.Join(", ", p.NCD_Details.Select(x => x.NCD.NCDName).ToList()))</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+

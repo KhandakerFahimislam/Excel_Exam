@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+  
+    <link href="~/libs/bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <script src="~/libs/bootstrap/js/bootstrap.bundle.js"></script>
+    
+   
+    
+    <style>
+        body{
+            padding-top:70px;
+        }
+    </style>
+    @await RenderSectionAsync("styles", false)
+</head>
+<body>
+    <nav class="navbar navbar-expand-md navbar-light bg-light fixed-top shadow-sm">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">ExcelBD</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" asp-action="Index" asp-controller="Home">Home</a>
+                </li>
+                <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" asp-action="Index" asp-controller="Patients">Patients</a>
+                </li>
+             </ul>  
+        </div>
+    </div>
+    </nav>
+    <div class="container-fluid" style="min-height: calc(100vh - 120px)">
+        @RenderBody()
+    </div>
+    <footer class="container-fluid">
+        &copy; @DateTime.Today.Year - Copyright information
+    </footer>
+    @await RenderSectionAsync("scripts", false)
+</body>
+</html>
